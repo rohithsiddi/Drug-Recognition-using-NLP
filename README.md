@@ -1,8 +1,8 @@
-# Drug Recommendation Chatbot
+# Doctor Chatbot
 
 ## Overview
 
-Welcome to the Drug Recommendation Chatbot project! This chatbot utilizes Natural Language Processing (NLP) and Machine Learning (ML) to analyze symptoms, detect diseases, and recommend drugs based on the identified diseases. Follow the steps below to set up and run the chatbot locally.
+Welcome to the Doctor Chatbot project! This chatbot utilizes Natural Language Processing (NLP) and Machine Learning (ML) to analyze symptoms, detect diseases, and recommend drugs based on the identified diseases. Follow the steps below to set up and run the chatbot locally.
 
 ## Project Process
 
@@ -34,7 +34,7 @@ Follow these steps to set up the project locally:
 
     ```bash
     git clone https://github.com/rohithsiddi/Drug-Recommendation-Chatbot.git
-    cd Doctor-chatbot
+    cd drug-recommendation-chatbot
     ```
 
 2. Install the required dependencies:
