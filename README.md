@@ -34,7 +34,7 @@ Follow these steps to set up the project locally:
 
     ```bash
     git clone https://github.com/rohithsiddi/Drug-Recommendation-Chatbot.git
-    cd drug-recommendation-chatbot
+    cd Doctor-chatbot
     ```
 
 2. Install the required dependencies:
