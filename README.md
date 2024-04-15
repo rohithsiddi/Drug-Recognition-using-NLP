@@ -1,4 +1,4 @@
-# Doctor Chatbot
+# Doctor Chatbot (drug recommendation model)
 
 ## Overview
 
@@ -50,11 +50,10 @@ Follow these steps to set up the project locally:
     ```
 ## Contributers
 1. Rohith
-2. Gagan
-3. Abhijit
-4. Varshini
-5. Ashritha
-
+2. Ashritha
+3. Gagan
+4. Abhijit
+5. Varshini
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
